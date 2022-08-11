@@ -10,7 +10,7 @@ I'm a Frontend Developer, tech enthusiast and Medic👩🏽‍🔬🩺 who is pa
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 Learning JavaScript and Reactjs
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtocherubpeters@gmail.com.
 
 ---
