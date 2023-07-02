@@ -7,9 +7,9 @@ I'm a Frontend Developer, tech enthusiast and Medic👩🏽‍🔬🩺 who is pa
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 Learning JavaScript, ReactJs and VueJs
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💡 Fun fact: Recently Graduated from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 Stack: JavaScript, ReactJs and VueJs
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtocherubpeters@gmail.com.
 
