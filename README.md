@@ -8,7 +8,7 @@ I'm a Frontend Developer, tech enthusiast and Medic👩🏽‍🔬🩺 who is pa
 
 - 😊 Pronouns: she/her
 - 🌱 Stack: JavaScript, ReactJs
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking to help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtocherubpeters@gmail.com.
 
