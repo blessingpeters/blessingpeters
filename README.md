@@ -1,6 +1,6 @@
 # Hola! 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-blessingpeters-D9FBE1?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=#)](https://blessingpeters.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-blessingpeter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blessing-peter-3a48931a9/)](https://www.linkedin.com/in/blessingpeters) [![Twitter Badge](https://img.shields.io/badge/-@blessingpeters_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/blessingpeters_)](https://twitter.com/blessingpeters_)
+[![Website Badge](https://img.shields.io/badge/-blessingpeters-D9FBE1?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=#)](https://blessingpeters.vercel.app/)[![Twitter Badge](https://img.shields.io/badge/-@blessingpeters_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/blessingpeters_)](https://twitter.com/blessingpeters_)
 
 I'm a Frontend Developer, tech enthusiast and Medic👩🏽‍🔬🩺 who is passionate about learning all there is to web development, coding and healthcare.
 
