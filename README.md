@@ -6,9 +6,9 @@ I'm a Frontend Developer, tech enthusiast and Medic👩🏽‍🔬🩺 who is pa
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 🌱 Stack: JavaScript, ReactJs
-- 😊 I’m looking to help with open-source projects, collaborate with other developers and build amazing stuff
-- 💼 Job interests: Frontend Engineer, or UI Engineer
+- 🌱 Stack: JavaScript, TypeScript, ReactJs, NextJs, NodeJS
+- 😊 I’m looking to help with open-source projects, collaborate with other developers and build amazing and meaninig projects
+- 💼 Job interests: Frontend Engineer, or UI Engineer(Mid-level or Senior)
 - 📫 You can contact me by emailing mailtocherubpeters@gmail.com.
 
 ---
