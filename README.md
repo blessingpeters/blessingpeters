@@ -9,7 +9,7 @@ I'm a Frontend Developer, tech enthusiast and Medic👩🏽‍🔬🩺 who is pa
 - 🌱 Stack: JavaScript, TypeScript, ReactJs, NextJs, NodeJS
 - 😊 I’m looking to help with open-source projects, collaborate with other developers and build amazing and meaninig projects
 - 💼 Job interests: Frontend Engineer, or UI Engineer(Mid-level or Senior)
-- 📫 You can contact me by emailing mailtocherubpeters@gmail.com.
+- 📫 You can contact me by emailing cherubpeters@gmail.com.
 
 ---
 
